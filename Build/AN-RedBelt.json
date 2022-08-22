@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AN",
+"productVersion": "0.1",
+"dataUrl": "AN-RedBelt.data.unityweb",
+"wasmCodeUrl": "AN-RedBelt.wasm.code.unityweb",
+"wasmFrameworkUrl": "AN-RedBelt.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
